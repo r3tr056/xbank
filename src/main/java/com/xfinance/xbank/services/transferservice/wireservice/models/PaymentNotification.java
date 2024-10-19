@@ -1,0 +1,9 @@
+package com.xfinance.xbank.services.transferservice.wireservice.models;
+
+import com.xfinance.xbank_customer_banking.services.paymentnotificationservice.PaymentNotification;
+import com.xfinance.xbank_customer_banking.services.paymentnotificationservice.PaymentNotificationFactory;
+import com.xfinance.xbank_customer_banking.services.paymentnotificationservice.PaymentNotificationProof;
+
+public class PaymentNotification {
+
+}
